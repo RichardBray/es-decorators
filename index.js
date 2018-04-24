@@ -8,14 +8,13 @@
 function boomify(target, name, descriptor) {
     const oldValue = descriptor.value();
     descriptor.value = () => {
-        return oldValue + " has been boomified!!!";
+        return `${oldValue} has been boomified!!!`;
     };
     return descriptor;
 }
 
 class People {
     @boomify
-
     bob() {
         return "Bob";
     }
