@@ -10,9 +10,9 @@ Step 2: `npm start` or `yarn start`
 
 
 ## Sources
-https://www.sitepoint.com/javascript-decorators-what-they-are/
-https://medium.com/jsguru/javascript-decorators-dac7d4b6bba3
-https://cabbageapps.com/fell-love-js-decorators/
+- https://www.sitepoint.com/javascript-decorators-what-they-are/
+- https://medium.com/jsguru/javascript-decorators-dac7d4b6bba3
+- https://cabbageapps.com/fell-love-js-decorators/
 
 
 ```js
